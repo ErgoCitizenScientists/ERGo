@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+matplotlib
+holoviews
+bokeh>=1.4.0
